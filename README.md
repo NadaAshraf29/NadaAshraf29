@@ -21,10 +21,9 @@
 - 💻 Skilled in **PHP, Laravel, HTML, CSS, JavaScript, MySQL**
 
 <br/>  
-<br/>
 
-<div align="center">
-<a href="https://your-cv-link.com" target="_blank">
+<div align="left">
+<a href="https://raw.githubusercontent.com/NadaAshraf29/NadaAshraf29/e6d864024989f1aa47bf245d1d80bcb71f674734/Nada's%20Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/CV-%230A66C2.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" style="margin-bottom: 5px;" />
 </a>
 <a href="https://your-portfolio-link.com" target="_blank">
