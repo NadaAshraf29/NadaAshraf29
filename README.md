@@ -23,7 +23,7 @@
 <br/>  
 
 <div align="left">
-<a href="https://nadaashraf29.github.io/portfolio/Nada_resume%20(front).pdf" target="_blank">
+<a href="https://nadaashraf29.github.io/portfolio/Nada's%20Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/CV-%230A66C2.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" style="margin-bottom: 5px;" />
 </a>
 <a href="https://nadaashraf29.github.io/portfolio/" target="_blank">
