@@ -23,6 +23,15 @@
 <br/>  
 <br/>
 
+<div align="center">
+<a href="https://your-cv-link.com" target="_blank">
+<img src="https://img.shields.io/badge/CV-%230A66C2.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" style="margin-bottom: 5px;" />
+</a>
+<a href="https://your-portfolio-link.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%231E77B5.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+</a>
+</div> 
+
 ## Tech Stack
 <div>
 
@@ -48,7 +57,7 @@
 <a href="https://github.com/NadaAshraf29" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/nada-ashraf29" target="_blank">
+<a href="https://www.linkedin.com/in/nada-ashraf29" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:nadaashraf2002.nada@gmail.com" target="_blank">
