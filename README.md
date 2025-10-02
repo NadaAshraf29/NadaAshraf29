@@ -24,7 +24,9 @@
 <br/>
 
 <div align="center">
-📄 [View CV](https://github.com/USERNAME/REPO/blob/main/cv.pdf)
+<a href="https://your-cv-link.com" target="_blank">
+<img src="https://img.shields.io/badge/CV-%230A66C2.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" style="margin-bottom: 5px;" />
+</a>
 <a href="https://your-portfolio-link.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%231E77B5.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
