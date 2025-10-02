@@ -23,10 +23,10 @@
 <br/>  
 
 <div align="left">
-<a href="https://raw.githubusercontent.com/NadaAshraf29/NadaAshraf29/e6d864024989f1aa47bf245d1d80bcb71f674734/Nada's%20Resume.pdf" target="_blank">
+<a href="https://nadaashraf29.github.io/portfolio/Nada_resume%20(front).pdf" target="_blank">
 <img src="https://img.shields.io/badge/CV-%230A66C2.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" style="margin-bottom: 5px;" />
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://nadaashraf29.github.io/portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%231E77B5.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
 </div> 
