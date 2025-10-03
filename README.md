@@ -65,16 +65,34 @@
   
 </div> 
 
-<br/>
-
-<div align="center" style="display:inline-block;flex-wrap:nowrap";>
-  
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
-<br/>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAshraf29&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
-  
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
+  <div style="width:100%; text-align:center; margin-bottom:20px;">
+    <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
+  </div>
 </div>
+
+<div align="center">
+
+  <!-- Left side -->
+  <span style="display:inline-block; vertical-align:middle; margin-right:150px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAshraf29&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+      alt="Most Used Languages"
+      style="height:190px"
+    />
+  </span>
+
+  <!-- Right side -->
+  <span style="display:inline-block; vertical-align:middle;">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=70&duration=3500&pause=0&color=42C3B4&background=9D56FF00&center=true&vCenter=false&repeat=true&random=false&width=600&height=210&multiline=true&lines=I+turn+coffee;into+code." 
+      alt="Typing SVG"
+    />
+  </span>
+
+</div>
+
+
+</div>
+
 <br/>  
